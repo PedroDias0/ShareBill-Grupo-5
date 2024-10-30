@@ -74,6 +74,25 @@ Kotlin;
 Java;
 Mysql;
 
+## Passo a Passo de Funcionamento da Sharebill
+O utilizador começa por criar um grupo para uma ocasião específica, como uma viagem, uma festa ou despesas mensais de uma casa partilhada.
+Ao criar o grupo, o utilizador pode adicionar os membros que vão participar, seja escolhendo entre os seus contactos ou inserindo os emails dos participantes. Cada grupo tem um nome personalizado e uma data de criação.
+Adicionar Despesas:
+
+Qualquer membro do grupo pode adicionar despesas, especificando o valor total, uma breve descrição (ex: “compras de supermercado” ou “jantar”) e a data da despesa.
+Ao registar a despesa, o utilizador indica quem pagou e como a despesa será dividida entre os membros (divisão igual ou personalizada). A aplicação permite também dividir valores desiguais, se alguns membros pagaram mais ou menos do que outros.
+Cada nova despesa atualiza automaticamente o saldo de cada membro do grupo, indicando quem deve ou quem tem a receber.
+Acompanhamento e Liquidação de Saldos:
+
+A Sharebill mantém um saldo atualizado para cada membro, mostrando claramente quanto cada pessoa deve ou tem a receber dos outros participantes.
+Os utilizadores podem consultar o saldo do grupo a qualquer momento e verificar um resumo das despesas, pagamentos pendentes e totais devidos por cada membro.
+Além disso, a aplicação permite que os utilizadores marquem dívidas como “pagas” quando recebem o valor devido, atualizando automaticamente os saldos de todos no grupo.
+Notificações automáticas podem ser enviadas para lembrar os participantes de pagamentos pendentes, garantindo que todos estejam cientes das suas obrigações.
+Relatórios e Transparência:
+
+A aplicação gera relatórios de despesas para que os utilizadores possam acompanhar as transações do grupo de forma clara e organizada.
+Cada despesa e pagamento são registados, promovendo transparência e ajudando a evitar mal-entendidos sobre quem pagou ou deve pagar.
+
 ## Gráfico de Gantt
 ![image](https://github.com/user-attachments/assets/5d2d9876-8dcd-4080-b2f4-56b332d38437)
 
