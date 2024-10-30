@@ -75,7 +75,8 @@ Java;
 Mysql;
 
 ## Gráfico de Gantt
-![image](https://github.com/user-attachments/assets/6b1920c4-f5d4-4bb4-a991-71b58b6bd5bc)
+![image](https://github.com/user-attachments/assets/5d2d9876-8dcd-4080-b2f4-56b332d38437)
+
 
 ## Conclusão:
 O projeto Share bill visa criar uma aplicação que resolva de forma eficaz os problemas associados à partilha de despesas entre grupos. Os principais objetivos incluem a simplificação do processo de divisão de contas, a automatização de lembretes de pagamentos e a geração de relatórios detalhados. A aplicação será testada e otimizada para garantir uma experiência de utilizador clara e eficiente.
