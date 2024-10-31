@@ -97,8 +97,15 @@ Cada despesa e pagamento são registados, promovendo transparência e ajudando a
 ![image](https://github.com/user-attachments/assets/5d2d9876-8dcd-4080-b2f4-56b332d38437)
 
 ## Design Aplicação 
-https://cdn.discordapp.com/attachments/1285508554744266813/1301554002512711774/criar_conta.png?ex=6724e61f&is=6723949f&hm=925970a6c348596c134c424c52e93072656b835785ae4fee43847be2c8c2c519&
-
+![image](https://github.com/user-attachments/assets/0a9acaf4-9e5f-425e-8703-6b30769412a1)
+![image](https://github.com/user-attachments/assets/8fcf3845-8fe0-481f-a068-4d441c71489c)
+![image](https://github.com/user-attachments/assets/0ae5def4-1e91-4e93-8480-913f872f46b9)
+![image](https://github.com/user-attachments/assets/6f950a1a-d171-47ce-b534-5f74f6b69007)
+![image](https://github.com/user-attachments/assets/0a69ae10-0b5e-48c1-a0bc-a57ca14e06d5)
+![image](https://github.com/user-attachments/assets/7c093f3c-5177-47b6-a4a3-68f2fe8c7361)
+![image](https://github.com/user-attachments/assets/e544ea69-cf43-462c-bf50-a167d50d6bc6)
+## Video 
+https://we.tl/t-9UjenT2Kf0
 ## Conclusão:
 O projeto Share bill visa criar uma aplicação que resolva de forma eficaz os problemas associados à partilha de despesas entre grupos. Os principais objetivos incluem a simplificação do processo de divisão de contas, a automatização de lembretes de pagamentos e a geração de relatórios detalhados. A aplicação será testada e otimizada para garantir uma experiência de utilizador clara e eficiente.
 
