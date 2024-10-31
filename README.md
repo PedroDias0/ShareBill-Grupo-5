@@ -96,6 +96,8 @@ Cada despesa e pagamento são registados, promovendo transparência e ajudando a
 ## Gráfico de Gantt
 ![image](https://github.com/user-attachments/assets/5d2d9876-8dcd-4080-b2f4-56b332d38437)
 
+## Design Aplicação 
+https://cdn.discordapp.com/attachments/1285508554744266813/1301554002512711774/criar_conta.png?ex=6724e61f&is=6723949f&hm=925970a6c348596c134c424c52e93072656b835785ae4fee43847be2c8c2c519&
 
 ## Conclusão:
 O projeto Share bill visa criar uma aplicação que resolva de forma eficaz os problemas associados à partilha de despesas entre grupos. Os principais objetivos incluem a simplificação do processo de divisão de contas, a automatização de lembretes de pagamentos e a geração de relatórios detalhados. A aplicação será testada e otimizada para garantir uma experiência de utilizador clara e eficiente.
