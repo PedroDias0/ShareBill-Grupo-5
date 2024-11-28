@@ -96,6 +96,10 @@ Cada despesa e pagamento são registados, promovendo transparência e ajudando a
 ## Gráfico de Gantt
 ![image](https://github.com/user-attachments/assets/5d2d9876-8dcd-4080-b2f4-56b332d38437)
 
+## Modelo de Dominio 
+![Modelo de Dominio](https://github.com/user-attachments/assets/9e34e3e9-e0fd-4d45-b9c1-a35b81387905)
+
+
 ## Design Aplicação 
 ![image](https://github.com/user-attachments/assets/0a9acaf4-9e5f-425e-8703-6b30769412a1)
 ![image](https://github.com/user-attachments/assets/8fcf3845-8fe0-481f-a068-4d441c71489c)
