@@ -97,7 +97,8 @@ Cada despesa e pagamento são registados, promovendo transparência e ajudando a
 ![image](https://github.com/user-attachments/assets/5d2d9876-8dcd-4080-b2f4-56b332d38437)
 
 ## Modelo de Dominio 
-![Modelo de Dominio](https://github.com/user-attachments/assets/9e34e3e9-e0fd-4d45-b9c1-a35b81387905)
+![image](https://github.com/user-attachments/assets/660ce7bd-690c-40cb-aea6-a2eeb8f04f4b)
+
 
 
 ## Design Aplicação 
