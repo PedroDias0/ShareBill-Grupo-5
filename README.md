@@ -1,8 +1,9 @@
  # ShareBill
 
-## Gonçalo Fernandes – 20231215
-## Pedro Dias – 20230038
-## Tiago Rato - 20230931
+## Grupo:
+ Gonçalo Fernandes – 20231215
+ Pedro Dias – 20230038
+ Tiago Rato - 20230931
 
 ## Palavras-chave:
  Divisão de despesas, Gestão financeira, Share bill, Despesas compartilhadas, Grupos de amigos.
