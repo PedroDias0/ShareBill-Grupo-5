@@ -4,7 +4,7 @@
  Gonçalo Fernandes – 20231215
  Pedro Dias – 20230038
  Tiago Rato - 20230931
-
+ Repositório no Github: https://github.com/PedroDias0/ShareBill-Grupo-5
 ## Palavras-chave:
  Divisão de despesas, Gestão financeira, Share bill, Despesas compartilhadas, Grupos de amigos.
 ## Breve descrição da App e do problema que pretende resolver:
