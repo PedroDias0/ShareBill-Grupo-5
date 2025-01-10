@@ -120,6 +120,38 @@ O projeto Share bill visa criar uma aplicação que resolva de forma eficaz os p
 2.	"Tricount: Expense Sharing Made Easy." https://www.tricount.com
 3.	"Settle Up: Share Expenses with Friends." https://settleup.io
 
+## Personas
+João Martins
+Idade:28
+Profissão: Engenheiro informático:
+
+Estilo de Vida:João vive com dois amigos num apartamento partilhado. Costumam dividir despesas como rendas, contas de eletricidade, internet e compras de supermercado. Ele gosta de ter tudo organizado e evitar conflitos sobre pagamentos atrasados.
+Objetivos:  Ter uma plataforma simples para controlar e partilhar as despesas do apartamento.
+Manter registos claros de quem pagou o quê e evitar discissões sobre quem deve dinheiro. 
+Frustrações: 
+Amigos que esquecem pagar contas.
+Dificuldade em acompanhar varias transferências bancarias.
+##
+Tomas Mendes
+Idade: 35
+Profissão: Medico 
+
+Estilo de Vida:Tomas organiza eventos e viagens com grupos de amigos frequentemente. Nas viagens, dividem despesas como alojamento, refeições e atividades. Ela gosta de planear tudo ao pormenor, mas encontra dificuldades em recolher os pagamentos de todos.
+Objetivos:Facilitar a divisão das despesas de eventos e viagens.
+Automatizar o cálculo de despesas individuais para evitar erros. 
+Frustrações:
+Ter de pedir várias vezes aos amigos que paguem.
+Falta de transparência da divisão de despesas. 
+
+
+
+
+
+
+
+
+
+
 
 
 
