@@ -1,0 +1,49 @@
+populate.sql
+
+-- Inserir utilizadores
+INSERT INTO User (user_nome, user_email, user_password) VALUES
+('João Silva', 'joao.silva@example.com', 'senha123'),
+('Maria Costa', 'maria.costa@example.com', 'senha456'),
+('Pedro Santos', 'pedro.santos@example.com', 'senha789');
+
+
+-- Inserir grupos
+INSERT INTO grupo (grupo_nome, grupo_descricao) VALUES
+('Viagem ao Algarve', 'Planeamento de viagem para o Algarve'),
+('Jantar de Amigos', 'Divisão de despesas do jantar mensal'),
+('Projeto de Faculdade', 'Grupo para dividir despesas do projeto final');
+
+
+-- Inserir relação utilizadores-grupos (UG)   
+INSERT INTO ug (ug_id_utilizador, ug_id_grupo) VALUES
+(23, 11),
+(23, 12),
+(24, 12),
+(25, 13);
+
+select * from ug 
+
+-- Inserir despesas   
+INSERT INTO despesas (despesas_id_utilizador, despesas_id_grupo, despesas_valor, despesas_descricao, data) VALUES     
+(23, 11, 200.50, 'Reserva de hotel', '2024-01-15 12:00:00'),
+(24, 12, 50.00, 'Compra de bebidas', '2024-02-10 19:00:00'),
+(25, 13, 300.00, 'Material de estudo', '2024-03-05 10:30:00');
+
+-- Inserir categorias
+INSERT INTO categorias (categoria_nome, categoria_descricao) VALUES
+('Alojamento', 'Despesas relacionadas a hotéis e acomodações'),
+('Alimentação', 'Comidas e bebidas em geral'),
+('Educação', 'Gastos com materiais e cursos');
+
+
+-- Inserir atividades  
+INSERT INTO atividades (atividade_id_categoria, atividade_descricao, data) VALUES
+(28, 'Reserva de casa para o grupo', '2024-01-20 15:00:00'),
+(29, 'Jantar de grupo', '2024-02-15 20:00:00'),
+(30, 'Compra de livros para o projeto', '2024-03-10 11:00:00');
+
+-- Inserir amizades  
+INSERT INTO amigos (utilizador1_id, utilizador2_id, estado) VALUES
+(23, 24, 'Accepted'),
+(23, 25, 'Pending'),
+(24, 25, 'Accepted');
