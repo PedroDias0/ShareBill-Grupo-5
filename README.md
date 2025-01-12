@@ -3,7 +3,8 @@
  
 # ShareBill
 
-
+ ## Índice:
+ 
 
 ## Grupo:
  Gonçalo Fernandes – 20231215
@@ -14,7 +15,7 @@
  
  Repositório no Github: https://github.com/PedroDias0/ShareBill-Grupo-5
 
- ## Índice:
+
  
 ## Palavras-chave:
  Divisão de despesas, Gestão financeira, Share bill, Despesas compartilhadas, Grupos de amigos.
