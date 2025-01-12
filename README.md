@@ -65,10 +65,15 @@
 O Share bill será uma aplicação mobile e web que permitirá a criação de grupos de despesas, a adição de pagamentos e a divisão automática dos custos entre os participantes. A solução inclui funcionalidades como lembretes automáticos, registo detalhado de transações e relatórios claros.
 
 ## Enquadramento nas diversas Unidades Curriculares:
+
 Programação de Dispositivos Móveis – Ensina a criar interfaces amigáveis para os utilizadores;
+
 Programação Orientada a Objetos – fornece técnicas para modelar o comportamento e as interações dos objetos tornando o código mais organizado;
+
 Bases de Dados - Responsável pela gestão eficiente dos dados da aplicação, como informações sobre utilizadores, grupos e despesas;
+
 Competências Comunicacionais;
+
 Matemática Discreta – contribui no desenvolvimento de algoritmos que organizam dados e ajuda a tornar o código seja mais eficiente; 
 
 ## Requisitos Técnicos para desenvolvimento do projeto:
@@ -134,23 +139,36 @@ O projeto Share bill visa criar uma aplicação que resolva de forma eficaz os p
 
 ## Personas
 João Martins
+
 Idade:28
+
 Profissão: Engenheiro informático:
 
-Estilo de Vida:João vive com dois amigos num apartamento partilhado. Costumam dividir despesas como rendas, contas de eletricidade, internet e compras de supermercado. Ele gosta de ter tudo organizado e evitar conflitos sobre pagamentos atrasados.
-Objetivos:  Ter uma plataforma simples para controlar e partilhar as despesas do apartamento.
+Estilo de Vida:
+João vive com dois amigos num apartamento partilhado. Costumam dividir despesas como rendas, contas de eletricidade, internet e compras de supermercado. Ele gosta de ter tudo organizado e evitar conflitos sobre pagamentos atrasados.
+
+Objetivos: 
+Ter uma plataforma simples para controlar e partilhar as despesas do apartamento.
 Manter registos claros de quem pagou o quê e evitar discissões sobre quem deve dinheiro. 
+
 Frustrações: 
 Amigos que esquecem pagar contas.
 Dificuldade em acompanhar varias transferências bancarias.
 ##
+
 Tomas Mendes
+
 Idade: 35
+
 Profissão: Medico 
 
-Estilo de Vida:Tomas organiza eventos e viagens com grupos de amigos frequentemente. Nas viagens, dividem despesas como alojamento, refeições e atividades. Ela gosta de planear tudo ao pormenor, mas encontra dificuldades em recolher os pagamentos de todos.
-Objetivos:Facilitar a divisão das despesas de eventos e viagens.
+Estilo de Vida:
+Tomas organiza eventos e viagens com grupos de amigos frequentemente. Nas viagens, dividem despesas como alojamento, refeições e atividades. Ela gosta de planear tudo ao pormenor, mas encontra dificuldades em recolher os pagamentos de todos.
+
+Objetivos:
+Facilitar a divisão das despesas de eventos e viagens.
 Automatizar o cálculo de despesas individuais para evitar erros. 
+
 Frustrações:
 Ter de pedir várias vezes aos amigos que paguem.
 Falta de transparência da divisão de despesas. 
