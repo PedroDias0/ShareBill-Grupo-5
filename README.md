@@ -4,7 +4,7 @@
 # ShareBill
 
  ## Índice:
- 
+ - [Grupo](#grupo)
 
 ## Grupo:
  Gonçalo Fernandes – 20231215
