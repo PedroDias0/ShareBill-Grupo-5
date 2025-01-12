@@ -93,7 +93,7 @@ Programação Orientada a Objetos – fornece técnicas para modelar o comportam
 
 Bases de Dados - Responsável pela gestão eficiente dos dados da aplicação, como informações sobre utilizadores, grupos e despesas;
 
-Competências Comunicacionais;
+Competências Comunicacionais Responsável pelos planeamentos dos Words e Paworpoints;
 
 Matemática Discreta – contribui no desenvolvimento de algoritmos que organizam dados e ajuda a tornar o código seja mais eficiente; 
 
