@@ -10,7 +10,7 @@
  - [Descrição dos objetivos e da motivação do trabalho a realizar](#descrição-dos-objetivos-e-da-motivação-do-trabalho-a-realizar)
  - [Identificação do Público-Alvo](#Identificação-do-Público-Alvo)
  - [Pesquisa de mercado sobre aplicações semelhantes ou com as quais pode comparar](#pesquisa-de-mercado-sobre-aplicações-semelhantes-ou-com-as-quais-pode-comparar)
- - [Guia de Teste 1: Criar um Grupo para Dividir Despesas](#guia-de-Teste-1:-Criar-um-Grupo-para-Dividir-Despesas)
+ - [Guia de Teste 1: Criar um Grupo para Dividir Despesas](#guia-de-Teste-1-Criar-um-Grupo-para-Dividir-Despesas)
  - [Descrição genérica da solução a implementar](#Descrição-genérica-da-solução-a-implementar)
  - [Enquadramento nas diversas Unidades Curriculares](#enquadramento-nas-diversas-Unidades-Curriculares)
  - [Requisitos Técnicos para desenvolvimento do projeto](#requisitos-Técnicos-para-desenvolvimento-do-projeto)
