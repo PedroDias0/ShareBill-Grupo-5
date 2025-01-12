@@ -5,6 +5,27 @@
 
  ## Índice:
  - [Grupo](#grupo)
+ - [Palavras-chave](#palavras-chave)
+ - [Breve descrição da App e do problema que pretende resolver](#Breve-descrição-da-App-e-do-problema-que-pretende-resolver)
+ - [Descrição dos objetivos e da motivação do trabalho a realizar](#descrição-dos-objetivos-e-da-motivação-do-trabalho-a-realizar)
+ - [Identificação do Público-Alvo](#Identificação-do-Público-Alvo)
+ - [Pesquisa de mercado sobre aplicações semelhantes ou com as quais pode comparar](#pesquisa-de-mercado-sobre-aplicações-semelhantes-ou-com-as-quais-pode-comparar)
+ - [Guia de Teste 1: Criar um Grupo para Dividir Despesas](#guia-de-Teste-1:-Criar-um-Grupo-para-Dividir-Despesas)
+ - [Descrição genérica da solução a implementar](#Descrição-genérica-da-solução-a-implementar)
+ - [Enquadramento nas diversas Unidades Curriculares](#enquadramento-nas-diversas-Unidades-Curriculares)
+ - [Requisitos Técnicos para desenvolvimento do projeto](#requisitos-Técnicos-para-desenvolvimento-do-projeto)
+ - [Arquitetura da Solução](#arquitetura-da-Solução)
+ - [Tecnologias a utilizar](#tecnologias-a-utilizar)
+ - [Passo a Passo de Funcionamento da Sharebill](#passo-a-Passo-de-Funcionamento-da-Sharebill)
+ - [Gráfico de Gantt](#gráfico-de-Gantt)
+ - [Modelo de Dominio ](#modelo-de-Dominio )
+ - [Design Aplicação ](#design-Aplicação )
+ - [Conclusão:](#conclusão:)
+ - [Bibliografia](#bibliografia)
+ - [Personas](#personas)
+ - [Palavras-chave](#palavras-chave)
+ 
+
 
 ## Grupo:
  Gonçalo Fernandes – 20231215
