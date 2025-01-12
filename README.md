@@ -20,7 +20,7 @@
  - [Gráfico de Gantt](#gráfico-de-Gantt)
  - [Modelo de Dominio ](#modelo-de-Dominio )
  - [Design Aplicação ](#design-Aplicação )
- - [Conclusão:](#conclusão:)
+ - [Conclusão](#conclusão)
  - [Bibliografia](#bibliografia)
  - [Personas](#personas)
  - [Palavras-chave](#palavras-chave)
