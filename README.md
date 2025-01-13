@@ -23,9 +23,9 @@
  - [Conclusão](#conclusão)
  - [Bibliografia](#bibliografia)
  - [Rest](#rest)
- - [Personas](#personas)
+ - [Auto-avaliação da implementação do projeto](#auto-avaliação-da-implementação-do-projeto)
  
- 
+
 
 
 ## Grupo:
@@ -242,6 +242,11 @@ Automatizar o cálculo de despesas individuais para evitar erros.
 Frustrações:
 Ter de pedir várias vezes aos amigos que paguem.
 Falta de transparência da divisão de despesas. 
+
+
+## Auto-avaliação da implementação do projeto:
+
+A nossa Auto-avaliação sobre o Projeto é que não conseguimos fazer a parte do Guia 3 porque gerimos muito mal o tempo e estivemos a fazer as coisas a ultima da hora, na parte dos words alguns deles não ficaram completamente completos porque não gerimos bem o tempo, no final achamos que deviamos ter melhorado melhor o nosso tempo para fazer o projeto e terminar por completo as nossas tarefas.
 
 
 
